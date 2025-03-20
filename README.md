@@ -4,14 +4,9 @@
 
 ### SRGAN Architecture
 
-<a href="https://github.com/tensorlayer/TensorLayerX">
+<a href="/">
 <div align="center">
-	<img src="img/model.jpeg" width="80%" height="10%"/>
-</div>
-</a>
-<a href="https://github.com/tensorlayer/TensorLayerX">
-<div align="center">
-	<img src="img/SRGAN_Result3.png" width="80%" height="50%"/>
+	<img src="model.png" width="80%" height="10%"/>
 </div>
 </a>
 
@@ -57,7 +52,10 @@ srgan/
 ### Results
 
 <div align="center">
-	<img src="img/SRGAN_Result2.png" width="80%" height="50%"/>
+	<img src="sample_result_1.png" width="80%" height="50%"/>
+</div>
+<div align="center">
+	<img src="sample_result_2.png" width="80%" height="50%"/>
 </div>
 
 
