@@ -10,7 +10,7 @@
 </div>
 </a>
 
-### Prepare Data and Pre-trained VGG
+### Prepare Data
 
 - 1. You need to download the DIV2k dataset and create a dataset folder with train and test folder with low_resolution and high_resolution folders respectively.
 - 2. You need to have the high resolution images for training.
